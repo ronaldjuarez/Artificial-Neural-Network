@@ -1,2 +1,2 @@
 # Artificial-Neural-Network
-This is a self implementation of artificial neural network
+This is a self implementation of artificial neural network. You can create a model with diferent layers and different units in each layer by inputing for example [800, 1024, 512, 256, 1]. It means the input is a vector (or matrix) of size 800xM where M can be 1 or greater. The hidden layers have 1024, 512 and 256 units, respectively and the output layer is 1 unit long. It accepts adam optimizer, RMSProp, and Stochastic Gradient Descent.
